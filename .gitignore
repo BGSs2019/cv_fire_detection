@@ -3,3 +3,6 @@ output
 data
 fire
 smoke
+runs
+yolov8n-cls.pt
+yolo11n.pt
